@@ -8,9 +8,9 @@
 
 <div align="center">
   <h3>
-    <!-- <a href="https://{your-demo-link.your-domain}"> -->
+    <a href="https://jyotip101.github.io/input-componentes-react/">
       Demo
-    <!-- </a> -->
+    </a>
     <span> | </span>
     <!-- <a href="https://{your-url-to-the-solution}"> -->
       Solution
@@ -36,11 +36,15 @@
 
 ## Overview
 
+![Screenshot](https://user-images.githubusercontent.com/66724598/144446698-ba748d96-8afa-447d-a0ba-c866f4186530.png)
+
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - [React](https://reactjs.org/)
+- CSS
+- Icon: [https://google.github.io/material-design-icons/](https://google.github.io/material-design-icons/)
 
 ## Features
 
@@ -56,7 +60,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/your-user-name/your-project-name
+$ git clone https://github.com/jyotip101/input-componentes-react
 
 # Install dependencies
 $ npm install
@@ -67,6 +71,7 @@ $ npm start
 
 ## Contact
 
-<!-- - Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username}) -->
+<!-- - Website [your-website.com](https://{your-web-site-link}) -->
+
+- GitHub [@jyotip101](https://github.com/jyotip101)
+- Twitter [@jyotipatil77100](https://twitter.com/jyotipatil77100)
