@@ -12,9 +12,9 @@
       Demo
     </a>
     <span> | </span>
-    <!-- <a href="https://{your-url-to-the-solution}"> -->
+    <a href="https://devchallenges.io/solutions/yy39rjiLL2XgGSo2fX3p">
       Solution
-    <!-- </a> -->
+    </a>
     <span> | </span>
     <a href="https://devchallenges.io/challenges/TSqutYM4c5WtluM7QzGp">
       Challenge
