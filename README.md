@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://jyotip101.github.io/input-componentes-react/">
+    <a href="https://thejyotipatel.github.io/input-componentes-react/">
       Demo
     </a>
     <span> | </span>
@@ -73,5 +73,5 @@ $ npm start
 
 <!-- - Website [your-website.com](https://{your-web-site-link}) -->
 
-- GitHub [@jyotip101](https://github.com/jyotip101)
-- Twitter [@jyotipatil77100](https://twitter.com/jyotipatil77100)
+- GitHub [@thejyotipatel](https://github.com/thejyotipatel)
+- Twitter [@thejyotipatel](https://twitter.com/thejyotipatel)
